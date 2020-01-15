@@ -1,0 +1,3 @@
+#one message per line, or sperated by "\n"
+Tschüss, Daniel
+Stoß dir nicht den Kopf beim Rausgehen

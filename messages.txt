@@ -1,3 +1,7 @@
-#one message per line, or sperated by "\n"
-Tschüss, Daniel
-Stoß dir nicht den Kopf beim Rausgehen
+#one message per line. Use '#' for comments
+Tschüss, Daniel!
+Stoß dir nicht den Kopf beim Rausgehen!
+Wer hoch sitzt, kann tief fallen.
+C you l8er, NERDigator!
+Hochmut kommt vor dem Fall
+Da hat wohl jemand zuviel KokaD genommen

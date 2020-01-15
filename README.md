@@ -1,5 +1,4 @@
 # kick-d
-Nachrichten, die kommen, wenn Daniel gekickt wird.
+Messages that will be displayed when Daniel is getting kicked from the Server
 
-- Tschüss, Daniel!
-- Stoß dir nicht den Kopf beim Rausgehen
+You can contribute by adding messages in the messages.txt file
